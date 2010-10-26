@@ -1,0 +1,233 @@
+
+
+
+
+#navigation ul {
+list-style: none;
+
+
+
+
+}
+
+#navigation li {
+display: inline;
+
+text-align: center;
+
+text-transform: uppercase;
+font-size: 12px;
+}
+
+
+
+#navigation a:link, #navigation a:visited {
+
+
+color: white;
+
+
+
+padding-left: 100px;
+
+text-decoration: none;
+font-weight: bold;
+
+
+}
+
+#navigation a:hover{
+color:#0000CD;
+
+
+}
+
+
+
+
+
+div#header
+ {
+background-image: url(Images/skyline.jpg); 
+
+
+
+  width: 800px;
+  height: 300px;
+
+
+  position:static;
+
+  
+ 
+ }
+
+#main
+ul li{
+list-style-type:none;
+text-align: center;
+margin-right: 50px;
+color: #FFFFFF;
+
+font-size: 14px;
+font-family: "Times New Roman", Times, serif;
+
+}
+
+
+h1{ 
+
+
+	padding-top: 50px;
+
+	text-align: center;
+	color: #0000CD;
+	font-family: arial;
+	font-size: 25px;}
+
+
+
+
+
+
+
+#body
+{
+margin:0 auto;
+padding:0;
+
+background-color: #B0E0E6; 
+height: auto;
+
+}
+
+
+
+
+
+
+
+#centered
+{
+width: 800px;
+
+border: 0px;
+padding:0;
+margin: 0 auto;
+background-color:#FFFFFF;
+
+}
+
+
+
+ 
+#content
+ {
+
+width: 800px; 
+text-align: left;
+border: 0px;
+
+
+font-family:"Sans-serif", Helvetica; 
+background-color: white; 
+
+
+color: #333333;
+font-size: 15px;
+
+padding-top: 0px;
+padding-left: 0px;
+padding-right:0px;
+padding-bottom:10px;
+
+	left: 0;
+	width: 800px;
+	height: auto;
+	
+
+	
+}	
+
+#supporting
+{
+list-style-type: circle;
+float:left;
+font-family:"Sans-serif", calibri;
+
+}
+
+
+#supporting a:link, #supporting a:visited {
+
+
+color: black;
+text-decoration:underline;
+}
+
+
+input{
+border: none;
+}
+
+fieldset{
+
+width: 50%;
+height:50%;
+background:none;
+padding: 5px;
+
+}
+
+textarea
+{	
+border:1px solid black;
+width: 100%;
+background:none;
+padding: 5px;
+
+}
+
+
+
+
+
+
+li{font-family:"Sans-serif", Calibri;
+ font-size: 15px;
+ } 
+
+
+ 
+
+	
+
+
+h3{
+text-align: left;
+font-family: 'Gill Sans', sans-serif;
+font-size: 16px;
+
+}
+	
+
+h4
+{ 
+font-size: 14px;
+font-family: Sans-serif;
+}
+
+
+
+
+
+#education
+ul li
+{
+list-style-type: none;
+
+}
+	
+
+
+
